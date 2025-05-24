@@ -28,3 +28,5 @@ The application uses environment variables to securely manage sensitive informat
    git checkout part-3
    npm install
    ```
+2. Create the dotenv file
+   API_KEY=env_secret_key_#####
